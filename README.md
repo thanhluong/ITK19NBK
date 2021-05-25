@@ -28,8 +28,10 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [VNOJ VDANGER - Nguy hiểm rõ ràng trước mắt](https://oj.vnoi.info/problem/vdanger)
   
   (05.29) Tarjan
-  - ...
-  - ...
+  - [VNOJ GRAPH_ - Tìm khớp và cầu (Cơ bản)](https://oj.vnoi.info/problem/graph_)
+  - [VNOJ REFORM - VOI 15 Bài 3: Kế hoạch cải tổ](https://oj.vnoi.info/problem/reform)
+  - [VNOJ NKPOLICE - Police](https://oj.vnoi.info/problem/nkpolice)
+  - [Codeforces 160D - Edges in MST](https://codeforces.com/problemset/problem/160/D)
   
 - **Tuần 02 (05.31 - 06.01): Lý thuyết đồ thị**
 
