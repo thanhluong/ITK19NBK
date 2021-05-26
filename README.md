@@ -24,6 +24,7 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   
   (05.26) Dijkstra + Floyd:
   - [VNOJ DHFRBUS - Vé xe miễn phí](https://oj.vnoi.info/problem/dhfrbus)
+  - [LQDOJ LOCKDOWN - Phong tỏa](https://lqdoj.edu.vn/problem/lockdowncwd)
   - [VNOJ DHSERV - Dịch vụ truyền thông](https://oj.vnoi.info/problem/dhserv)
   - [VNOJ VDANGER - Nguy hiểm rõ ràng trước mắt](https://oj.vnoi.info/problem/vdanger)
   
