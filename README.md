@@ -39,8 +39,9 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
 - **Tuần 02 (05.31 - 06.01): Lý thuyết đồ thị**
 
   (05.31) Tarjan
-  - ...
-  - ...
+  - [VNOI TJALG - Tìm TPLT mạnh](https://oj.vnoi.info/problem/tjalg)
+  - [VNOI MESSAGE - Truyền tin](https://oj.vnoi.info/problem/message)
+  - [Codeforces 427C - Checkposts](https://codeforces.com/problemset/problem/427/C) 
 
   (06.01) Bài toán 2-SAT
   - ...
