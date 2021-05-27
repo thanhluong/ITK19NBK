@@ -28,6 +28,7 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [VNOJ DHSERV - Dịch vụ truyền thông](https://oj.vnoi.info/problem/dhserv)
   - [VNOJ VDANGER - Nguy hiểm rõ ràng trước mắt](https://oj.vnoi.info/problem/vdanger)
   - [Codeforces 147B - Smile House](https://codeforces.com/contest/147/problem/B)
+  - [LQDOJ ROBOT - Trò chơi với robot](https://lqdoj.edu.vn/problem/robot)
   
   (05.29) Tarjan
   - [VNOJ GRAPH_ - Tìm khớp và cầu (Cơ bản)](https://oj.vnoi.info/problem/graph_)
