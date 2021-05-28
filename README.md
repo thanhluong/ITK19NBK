@@ -37,6 +37,7 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [VNOJ NKPOLICE - Police](https://oj.vnoi.info/problem/nkpolice)
   - [Codeforces 160D - Edges in MST](https://codeforces.com/problemset/problem/160/D)
   - [Codeforces 732F - Tourist Reform](https://codeforces.com/contest/732/problem/F) 
+  - [Codeforces 193A - Cutting Figure](https://codeforces.com/contest/193/problem/A)
   
 - **Tuần 02 (05.31 - 06.01): Lý thuyết đồ thị**
 
