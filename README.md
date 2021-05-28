@@ -36,6 +36,7 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [VNOJ SAFENET2 - Mạng máy tính an toàn](https://oj.vnoi.info/problem/safenet2)
   - [VNOJ NKPOLICE - Police](https://oj.vnoi.info/problem/nkpolice)
   - [Codeforces 160D - Edges in MST](https://codeforces.com/problemset/problem/160/D)
+  - [Codeforces 732F - Tourist Reform](https://codeforces.com/contest/732/problem/F) 
   
 - **Tuần 02 (05.31 - 06.01): Lý thuyết đồ thị**
 
