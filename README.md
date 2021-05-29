@@ -35,7 +35,7 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [VNOJ REFORM - VOI 15 Bài 3: Kế hoạch cải tổ](https://oj.vnoi.info/problem/reform)
   - [VNOJ SAFENET2 - Mạng máy tính an toàn](https://oj.vnoi.info/problem/safenet2)
   - [VNOJ NKPOLICE - Police](https://oj.vnoi.info/problem/nkpolice)
-  - [Codeforces 160D - Edges in MST](https://codeforces.com/problemset/problem/160/D)
+  - [Codeforces 160D - Edges in MST](https://codeforces.com/contest/160/problem/D)
   - [Codeforces 732F - Tourist Reform](https://codeforces.com/contest/732/problem/F) 
   - [Codeforces 193A - Cutting Figure](https://codeforces.com/contest/193/problem/A)
   
