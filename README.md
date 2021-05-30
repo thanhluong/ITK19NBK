@@ -60,6 +60,19 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [Codeforces 1239D - Catowice City](https://codeforces.com/contest/1239/problem/D)
   - [Codeforces 1137C - Museums Tour](https://codeforces.com/contest/1137/problem/C)
 
+  (06.01) Luồng cực đại, lát cắt cực tiểu, luồng hai cận
+  - [VNOJ NKFLOW - Luồng cực đại trên mạng](https://oj.vnoi.info/problem/nkflow)
+  - [LQDOJ MAFIACWD](https://lqdoj.edu.vn/problem/mafiacwd)
+  - [VNOJ JOBSET - VOI 14 Bài 6: Chọn Công Việc](https://oj.vnoi.info/problem/jobset)
+  - [LQDOJ MESSAGESCWD](https://lqdoj.edu.vn/problem/messagescwd)
+  - [LQDOJ FILLB - Điền số cùng Ngọc](https://lqdoj.edu.vn/problem/fillb)
+  - [LQDOJ ...](...)
+
+- **Tuần 03 (06.07 - 06.12): Cây (tree)**
+
+  (06.07) QHĐ trên cây
+  - ...
+
   (06.01) Cây & QHĐ trên cây
   - [LQDOJ JOB - Công việc](https://lqdoj.edu.vn/problem/job)
   - [VNOJ V8ORG - Tổ chức đối lập](https://oj.vnoi.info/problem/v8org)
@@ -68,14 +81,6 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [Codeforces 110E - Lucky Tree](https://codeforces.com/contest/110/problem/E)
   - [VNOJ CTREE - Tô màu nhỏ nhất](https://oj.vnoi.info/problem/ctree)
   - [VNOJ ITREE - Nhãn của cây](https://oj.vnoi.info/problem/itree)
-
-- **Tuần 03 (06.07 - 06.12): Cây (tree)**
-
-  (06.07) QHĐ trên cây
-  - ...
-
-  (06.08) QHĐ trên cây
-  - ...
 
   (06.10) Sparse table + LCA
   - ...
