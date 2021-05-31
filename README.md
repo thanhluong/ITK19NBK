@@ -66,7 +66,7 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [VNOJ JOBSET - VOI 14 Bài 6: Chọn Công Việc](https://oj.vnoi.info/problem/jobset)
   - [LQDOJ MESSAGESCWD](https://lqdoj.edu.vn/problem/messagescwd)
   - [LQDOJ FILLB - Điền số cùng Ngọc](https://lqdoj.edu.vn/problem/fillb)
-  - [LQDOJ ...](...)
+  - [LQDOJ STARCWD](https://lqdoj.edu.vn/problem/starcwd)
 
 - **Tuần 03 (06.07 - 06.12): Cây (tree)**
 
