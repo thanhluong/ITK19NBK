@@ -69,6 +69,32 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [LQDOJ FILLB - Điền số cùng Ngọc](https://lqdoj.edu.vn/problem/fillb)
   - [LQDOJ STARCWD](https://lqdoj.edu.vn/problem/starcwd)
 
+  Bài tập ôn tập các dạng đã học:
+  
+    - DFS & BFS:
+      - [VNOJ VMUNCH - Gặm cỏ](https://oj.vnoi.info/problem/vmunch) 
+      - [Codeforces 1037D - Valid BFS?](https://codeforces.com/contest/1037/problem/D)
+      - [VNOJ NKTRIO - Bộ ba cao thủ](https://oj.vnoi.info/problem/nktrio)
+      - [VNOJ NKGUARD - Bảo vệ nông trang](https://oj.vnoi.info/problem/nkguard)
+      - [VNOJ MTWALK - Mountain Walking](https://oj.vnoi.info/problem/mtwalk) (dành cho các em chưa train vào tháng 4)
+      - [VNOJ ROBOCON - VOI 12 Bài 5: Robocon](https://oj.vnoi.info/problem/robocon)
+
+    - Đường đi ngắn nhất:
+      - [VNOJ PWRFAIL - Mất điện](https://oj.vnoi.info/problem/pwrfail)
+      - [VNOJ CENTRE28 - CENTRE](https://oj.vnoi.info/problem/centre28)
+      - [VNOJ NETACCEL - Tăng tốc mạng máy tính](https://oj.vnoi.info/problem/netaccel)
+      - [VNOJ V8SORT - Sắp xếp](https://oj.vnoi.info/problem/v8sort)
+
+    - Cây khung, DSU:
+      - [VNOJ FWATER - Tưới nước đồng cỏ](https://oj.vnoi.info/problem/fwater)
+      - [VNOJ QHROAD - Phá đường](https://oj.vnoi.info/problem/qhroad)
+      - [VNOJ YUGI](https://oj.vnoi.info/problem/yugi) (dành cho các em chưa train vào tháng 4)
+      - [Codeforces 1213G - Path Queries](https://codeforces.com/contest/1213/problem/G)
+
+    - Luồng cực đại:
+      - [VNOJ MPART - Chia nhóm](https://oj.vnoi.info/problem/mpart)
+      - [VNOJ HIWAY - Hai đường đi](https://oj.vnoi.info/problem/hiway)
+
 - **Tuần 03 (06.07 - 06.12): Cây (tree)**
 
   (06.07) QHĐ trên cây
