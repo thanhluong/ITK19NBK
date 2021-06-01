@@ -13,6 +13,7 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
 - [VNOJ: VNOI Online Judge](https://oj.vnoi.info/)
 - [LQDOJ: Le Quy Don Online Judge](https://lqdoj.edu.vn/)
 - [Codeforces](https://codeforces.com/)
+- [HackerRank](https://www.hackerrank.com/)
 - (Không bắt buộc) [CSES - Code Submission Evaluation System](https://cses.fi/)
 - (Không bắt buộc) [DMOJ - Modern Online Judge](https://dmoj.ca/)
 - (Không bắt buộc) [Baekjoon Online Judge](https://www.acmicpc.net/)
