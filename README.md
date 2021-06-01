@@ -73,6 +73,7 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   
     - DFS & BFS:
       - [VNOJ VMUNCH - Gặm cỏ](https://oj.vnoi.info/problem/vmunch) 
+      - [VNOJ QBBISHOP - VOI 06 Bài 2: Quân tượng](https://oj.vnoi.info/problem/qbbishop)
       - [Codeforces 1037D - Valid BFS?](https://codeforces.com/contest/1037/problem/D)
       - [VNOJ NKTRIO - Bộ ba cao thủ](https://oj.vnoi.info/problem/nktrio)
       - [VNOJ NKGUARD - Bảo vệ nông trang](https://oj.vnoi.info/problem/nkguard)
