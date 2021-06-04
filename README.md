@@ -77,6 +77,7 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
       - [VNOJ NKGUARD - Bảo vệ nông trang](https://oj.vnoi.info/problem/nkguard)
       - [VNOJ MTWALK - Mountain Walking](https://oj.vnoi.info/problem/mtwalk) (dành cho các em chưa train vào tháng 4)
       - [VNOJ ROBOCON - VOI 12 Bài 5: Robocon](https://oj.vnoi.info/problem/robocon)
+      - [VNOJ VOSNET - Social Network](https://oj.vnoi.info/problem/vosnet)
 
     - Đường đi ngắn nhất:
       - [VNOJ PWRFAIL - Mất điện](https://oj.vnoi.info/problem/pwrfail)
@@ -89,6 +90,7 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
       - [VNOJ QHROAD - Phá đường](https://oj.vnoi.info/problem/qhroad)
       - [VNOJ YUGI](https://oj.vnoi.info/problem/yugi) (dành cho các em chưa train vào tháng 4)
       - [Codeforces 1213G - Path Queries](https://codeforces.com/contest/1213/problem/G)
+      - [VNOJ VMST - Cây khung](https://oj.vnoi.info/problem/vmst)
 
     - Luồng cực đại:
       - [VNOJ MPART - Chia nhóm](https://oj.vnoi.info/problem/mpart)
