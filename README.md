@@ -98,8 +98,8 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
 
 - **Tuần 03 (06.07 - 06.12): Cây (tree)**
 
-  (06.07) QHĐ trên cây
-  - ...
+  (06.07) Thi thử HSG tỉnh lần 01
+  - [Link nộp bài](https://lqdoj.edu.vn/contest/otbc01)
 
   (06.01) Cây & QHĐ trên cây
   - [LQDOJ JOB - Công việc](https://lqdoj.edu.vn/problem/job)
