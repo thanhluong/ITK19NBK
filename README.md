@@ -102,14 +102,12 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - Thời gian làm bài: 08h00 - 10h30
   - [Link nộp bài](https://lqdoj.edu.vn/contest/otbc01)
 
-  (06.01) Cây & QHĐ trên cây
-  - [LQDOJ JOB - Công việc](https://lqdoj.edu.vn/problem/job)
-  - [VNOJ V8ORG - Tổ chức đối lập](https://oj.vnoi.info/problem/v8org)
-  - [VNOJ MTREE - Another Tree Problem](https://oj.vnoi.info/problem/mtree)
-  - [LQDOJ SERVICE - Dịch vụ chăm sóc khách hàng](https://lqdoj.edu.vn/problem/service)
-  - [Codeforces 110E - Lucky Tree](https://codeforces.com/contest/110/problem/E)
-  - [VNOJ CTREE - Tô màu nhỏ nhất](https://oj.vnoi.info/problem/ctree)
-  - [VNOJ ITREE - Nhãn của cây](https://oj.vnoi.info/problem/itree)
+  (06.01) Đệ quy, quay lui, vét cạn
+  - [LQDOJ BONUS2021 - Tặng quà](https://lqdoj.edu.vn/problem/bonus2021) (subtask 1)
+  - [Codeforces 202A - LLPS](http://codeforces.com/problemset/problem/202/A)
+  - [Codeforces 550B - Preparing Olympiad](http://codeforces.com/contest/550/problem/B)
+  - [Codeforces 47D - Safe](http://codeforces.com/contest/47/problem/D)
+  - [Codeforces 36B - Fractal](http://codeforces.com/contest/36/problem/B)
 
   (06.10) Sparse table + LCA
   - ...
