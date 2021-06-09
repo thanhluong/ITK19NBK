@@ -96,7 +96,7 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
       - [VNOJ MPART - Chia nhóm](https://oj.vnoi.info/problem/mpart)
       - [VNOJ HIWAY - Hai đường đi](https://oj.vnoi.info/problem/hiway)
 
-- **Tuần 03 (06.07 - 06.12): Cây (tree)**
+- **Tuần 03 (06.07 - 06.12): Đệ quy (recursion)**
 
   (06.07) Thi thử HSG tỉnh lần 01
   - Thời gian làm bài: 08h00 - 10h30
@@ -107,7 +107,6 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [Codeforces 202A - LLPS](http://codeforces.com/problemset/problem/202/A)
   - [Codeforces 550B - Preparing Olympiad](http://codeforces.com/contest/550/problem/B)
   - [Codeforces 47D - Safe](http://codeforces.com/contest/47/problem/D)
-
 
   (06.10) Đệ quy, quay lui, duyệt phân tập (tiếp theo):
   - [Codeforces 36B - Fractal](http://codeforces.com/contest/36/problem/B)
