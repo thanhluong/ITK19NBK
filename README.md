@@ -107,17 +107,15 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [Codeforces 202A - LLPS](http://codeforces.com/problemset/problem/202/A)
   - [Codeforces 550B - Preparing Olympiad](http://codeforces.com/contest/550/problem/B)
   - [Codeforces 47D - Safe](http://codeforces.com/contest/47/problem/D)
+
+
+  (06.10) Đệ quy, quay lui, duyệt phân tập (tiếp theo):
+  - [Codeforces 36B - Fractal](http://codeforces.com/contest/36/problem/B)
+  - [LQDOJ PGIFTCWD - Xếp quà](https://lqdoj.edu.vn/problem/pgiftcwd)
   - [VNOJ VECTOR - Tổng vector](https://oj.vnoi.info/problem/vector)
   - [VNOJ DTTUI1 - Cái túi 1](https://oj.vnoi.info/problem/dttui1)
 
-  Bài tập đệ quy:
-  - [Codeforces 36B - Fractal](http://codeforces.com/contest/36/problem/B)
-
-  (06.10) Đệ quy
-  - ...
-  - ...
-
-  (06.12) LCA
+  (06.12) ...
   - ...
   - ...
   - 
