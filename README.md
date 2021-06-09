@@ -104,7 +104,7 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
 
   (06.08) Duyệt tập con, duyệt phân tập
   - [LQDOJ BONUS2021 - Tặng quà](https://lqdoj.edu.vn/problem/bonus2021) (subtask 1)
-  - [Codeforces 202A - LLPS](http://codeforces.com/problemset/problem/202/A)
+  - [Codeforces 202A - LLPS](http://codeforces.com/contest/202/problem/A)
   - [Codeforces 550B - Preparing Olympiad](http://codeforces.com/contest/550/problem/B)
   - [Codeforces 47D - Safe](http://codeforces.com/contest/47/problem/D)
 
