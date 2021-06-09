@@ -110,6 +110,7 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
 
   (06.10) Đệ quy, quay lui, duyệt phân tập (tiếp theo):
   - [Codeforces 36B - Fractal](http://codeforces.com/contest/36/problem/B)
+  - [LQDOJ RESCUETH - Giải cứu](https://lqdoj.edu.vn/problem/rescueth)
   - [LQDOJ PGIFTCWD - Xếp quà](https://lqdoj.edu.vn/problem/pgiftcwd)
   - [VNOJ VECTOR - Tổng vector](https://oj.vnoi.info/problem/vector)
   - [VNOJ DTTUI1 - Cái túi 1](https://oj.vnoi.info/problem/dttui1)
