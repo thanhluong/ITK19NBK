@@ -108,14 +108,16 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [Codeforces 550B - Preparing Olympiad](http://codeforces.com/contest/550/problem/B)
   - [Codeforces 47D - Safe](http://codeforces.com/contest/47/problem/D)
 
-  (06.10) Đệ quy, quay lui, duyệt phân tập (tiếp theo):
+- **Tuần 04 (06.15 - 06.19): Đệ quy (recursion)**
+
+  (06.15) Thi thử HSG tỉnh lần 02
+  - Thời gian làm bài: 8h - 10h45
+  - [Link nộp bài](https://lqdoj.edu.vn/contest/otbc02)
+
+  (06.17) Đệ quy, quay lui, duyệt phân tập (tiếp theo):
   - [Codeforces 36B - Fractal](http://codeforces.com/contest/36/problem/B)
   - [LQDOJ RESCUETH - Giải cứu](https://lqdoj.edu.vn/problem/rescueth)
   - [LQDOJ PGIFTCWD - Xếp quà](https://lqdoj.edu.vn/problem/pgiftcwd)
   - [VNOJ VECTOR - Tổng vector](https://oj.vnoi.info/problem/vector)
   - [VNOJ DTTUI1 - Cái túi 1](https://oj.vnoi.info/problem/dttui1)
 
-  (06.12) ...
-  - ...
-  - ...
-  - 
