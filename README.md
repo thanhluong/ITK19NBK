@@ -53,7 +53,7 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   (05.31) Tarjan & bài toán 2-SAT
   - [VNOI TJALG - Tìm TPLT mạnh](https://oj.vnoi.info/problem/tjalg)
   - [VNOI MESSAGE - Truyền tin](https://oj.vnoi.info/problem/message)
-  - [Codeforces 427C - Checkposts](https://codeforces.com/problemset/problem/427/C) 
+  - [Codeforces 427C - Checkposts](https://codeforces.com/contest/427/problem/C) 
   - [VNOJ TWOSAT - Du lịch](https://oj.vnoi.info/problem/twosat)
   - [LQDOJ GAMESHOWCWD - Truyền hình thực tế](https://lqdoj.edu.vn/problem/gameshowcwd)
   - [Codeforces 1239D - Catowice City](https://codeforces.com/contest/1239/problem/D)
@@ -120,4 +120,5 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [LQDOJ PGIFTCWD - Xếp quà](https://lqdoj.edu.vn/problem/pgiftcwd)
   - [VNOJ VECTOR - Tổng vector](https://oj.vnoi.info/problem/vector)
   - [VNOJ DTTUI1 - Cái túi 1](https://oj.vnoi.info/problem/dttui1)
+  - [Codeforces 585D - Lizard Era: Beginning](https://codeforces.com/contest/585/problem/D)
 
