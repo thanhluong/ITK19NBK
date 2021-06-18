@@ -122,7 +122,7 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [LQDOJ PGIFTCWD - Xếp quà](https://lqdoj.edu.vn/problem/pgiftcwd)
   - [VNOJ VECTOR - Tổng vector](https://oj.vnoi.info/problem/vector)
   - [VNOJ DTTUI1 - Cái túi 1](https://oj.vnoi.info/problem/dttui1)
-  - [Codeforces 585D - Lizard Era: Beginning](https://codeforces.com/contest/585/problem/D)
+  - [Codeforces Vượt ải](https://codeforces.com/group/G0iFI97YZN/contest/333147/problem/A)
 
 - **Tuần 05 (06.21 - 06.26): Duyệt, chia để trị (recursion)**
   
