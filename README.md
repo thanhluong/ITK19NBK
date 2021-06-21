@@ -120,12 +120,14 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
 
   (06.19) Đệ quy, quay lui, duyệt phân tập (tiếp theo):
   - [LQDOJ PGIFTCWD - Xếp quà](https://lqdoj.edu.vn/problem/pgiftcwd)
-  - [VNOJ VECTOR - Tổng vector](https://oj.vnoi.info/problem/vector)
-  - [VNOJ DTTUI1 - Cái túi 1](https://oj.vnoi.info/problem/dttui1)
-  - [Codeforces Vượt ải](https://codeforces.com/group/G0iFI97YZN/contest/333147/problem/A)
 
 - **Tuần 05 (06.21 - 06.26): Duyệt, chia để trị (recursion)**
   
   (06.21) Thi thử HSG tỉnh lần 03
   - Thời gian làm bài: 8h - 10h45
   - [Link nộp bài](https://lqdoj.edu.vn/contest/otbc03)
+
+  (06.19) Đệ quy, quay lui, duyệt phân tập (tiếp theo):
+  - [VNOJ VECTOR - Tổng vector](https://oj.vnoi.info/problem/vector)
+  - [Codeforces Vượt ải](https://codeforces.com/group/G0iFI97YZN/contest/333147/problem/A)
+  - [VNOJ DTTUI1 - Cái túi 1](https://oj.vnoi.info/problem/dttui1)
