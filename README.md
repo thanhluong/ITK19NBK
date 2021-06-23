@@ -132,10 +132,11 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [Codeforces Vượt ải](https://codeforces.com/group/G0iFI97YZN/contest/333147/problem/A)
   - [VNOJ DTTUI1 - Cái túi 1](https://oj.vnoi.info/problem/dttui1)
 
-  (06.24) Chặt nhị phân
+  (06.24) Chặt nhị phân, chặt tam phân
   - [LQDOJ CSP - Tập xe](https://lqdoj.edu.vn/problem/csp)
   - [LQDOJ Bộ số tam giác](https://lqdoj.edu.vn/problem/1819bosotg)
   - [LQDOJ BUYCARD - Mua bài](https://lqdoj.edu.vn/problem/buycard)
   - [LQDOJ CJ di chuyển lực lượng](https://lqdoj.edu.vn/problem/cjdichuyenlucluong)
   - [Codeforces Bảo tồn](https://codeforces.com/group/G0iFI97YZN/contest/333824/problem/A)
   - [LQDOJ Chắc kèo](https://lqdoj.edu.vn/problem/surebet)
+  - [Codeforces Nghèo nàn](https://codeforces.com/group/G0iFI97YZN/contest/333824/problem/B)
