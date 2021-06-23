@@ -133,5 +133,6 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [VNOJ DTTUI1 - Cái túi 1](https://oj.vnoi.info/problem/dttui1)
 
   (06.24) Chặt nhị phân
+  - [LQDOJ CSP - Tập xe](https://lqdoj.edu.vn/problem/csp)
   - [LQDOJ BUYCARD - Mua bài](https://lqdoj.edu.vn/problem/buycard)
   - [LQDOJ CJ di chuyển lực lượng](https://lqdoj.edu.vn/problem/cjdichuyenlucluong)
