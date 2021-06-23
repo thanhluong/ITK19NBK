@@ -137,3 +137,5 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [LQDOJ Bộ số tam giác](https://lqdoj.edu.vn/problem/1819bosotg)
   - [LQDOJ BUYCARD - Mua bài](https://lqdoj.edu.vn/problem/buycard)
   - [LQDOJ CJ di chuyển lực lượng](https://lqdoj.edu.vn/problem/cjdichuyenlucluong)
+  - [Codeforces Bảo tồn](https://codeforces.com/gym/333824/problem/A)
+  - [LQDOJ Chắc kèo](https://lqdoj.edu.vn/problem/surebet)
