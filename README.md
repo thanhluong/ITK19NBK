@@ -134,5 +134,6 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
 
   (06.24) Chặt nhị phân
   - [LQDOJ CSP - Tập xe](https://lqdoj.edu.vn/problem/csp)
+  - [LQDOJ Bộ số tam giác](https://lqdoj.edu.vn/problem/1819bosotg)
   - [LQDOJ BUYCARD - Mua bài](https://lqdoj.edu.vn/problem/buycard)
   - [LQDOJ CJ di chuyển lực lượng](https://lqdoj.edu.vn/problem/cjdichuyenlucluong)
