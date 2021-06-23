@@ -127,7 +127,11 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - Thời gian làm bài: 8h - 10h45
   - [Link nộp bài](https://lqdoj.edu.vn/contest/otbc03)
 
-  (06.19) Đệ quy, quay lui, duyệt phân tập (tiếp theo):
+  (06.22) Đệ quy, quay lui, duyệt phân tập (tiếp theo):
   - [VNOJ VECTOR - Tổng vector](https://oj.vnoi.info/problem/vector)
   - [Codeforces Vượt ải](https://codeforces.com/group/G0iFI97YZN/contest/333147/problem/A)
   - [VNOJ DTTUI1 - Cái túi 1](https://oj.vnoi.info/problem/dttui1)
+
+  (06.24) Chặt nhị phân
+  - [LQDOJ BUYCARD - Mua bài](https://lqdoj.edu.vn/problem/buycard)
+  - [LQDOJ CJ di chuyển lực lượng](https://lqdoj.edu.vn/problem/cjdichuyenlucluong)
