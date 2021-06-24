@@ -139,5 +139,8 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [LQDOJ CJ di chuyển lực lượng](https://lqdoj.edu.vn/problem/cjdichuyenlucluong)
   - [Codeforces Bảo tồn](https://codeforces.com/group/G0iFI97YZN/contest/333824/problem/A)
   - [LQDOJ MESSAGESCWD](https://lqdoj.edu.vn/problem/messagescwd)
+
+  (06.26) Chặt nhị phân, chặt tam phân (tiếp theo)
+  - [Codeforces Trồng cây](https://codeforces.com/group/G0iFI97YZN/contest/333824/problem/C)
   - [LQDOJ Chắc kèo](https://lqdoj.edu.vn/problem/surebet)
   - [Codeforces Nghèo nàn](https://codeforces.com/group/G0iFI97YZN/contest/333824/problem/B)
