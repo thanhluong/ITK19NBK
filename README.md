@@ -145,6 +145,7 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [VNOJ MPART - Chia nhóm](https://oj.vnoi.info/problem/mpart)
   - [LQDOJ Chắc kèo](https://lqdoj.edu.vn/problem/surebet)
   - [Codeforces Nghèo nàn](https://codeforces.com/group/G0iFI97YZN/contest/333824/problem/B)
+  - [VNOJ Cắt hình](https://oj.vnoi.info/problem/mincut)
 
 - **Tuần 05 (06.21 - 06.26): Cấu trúc dữ liệu (recursion)**
 
