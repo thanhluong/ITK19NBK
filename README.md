@@ -142,5 +142,12 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
 
   (06.26) Chặt nhị phân, chặt tam phân (tiếp theo)
   - [Codeforces Trồng cây](https://codeforces.com/group/G0iFI97YZN/contest/333824/problem/C)
+  - [VNOJ MPART - Chia nhóm](https://oj.vnoi.info/problem/mpart)
   - [LQDOJ Chắc kèo](https://lqdoj.edu.vn/problem/surebet)
   - [Codeforces Nghèo nàn](https://codeforces.com/group/G0iFI97YZN/contest/333824/problem/B)
+
+- **Tuần 05 (06.21 - 06.26): Cấu trúc dữ liệu (recursion)**
+
+  (06.28) Thi thử HSG tỉnh lần 04
+  - Thời gian làm bài: 8h - 11h00
+  - [Link nộp bài](https://lqdoj.edu.vn/contest/otbc04)
