@@ -159,4 +159,5 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [Codeforces Dãy ngoặc hợp lệ](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/C)
   - [Hackerrank Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)
   - [Codeforces Kiểm tra tràn số](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/D)
-  - [LQDCoder Định và Ami](http://lequydon.ntucoder.net/Problem/Details/6355)
+  - [LQDCoder Định và Ami (bản dễ)](http://lequydon.ntucoder.net/Problem/Details/6362)
+  - [LQDCoder Định và Ami (bản khó)](http://lequydon.ntucoder.net/Problem/Details/6355)
