@@ -154,5 +154,8 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [Link nộp bài](https://lqdoj.edu.vn/contest/otbc04)
 
   (06.29) Ngăn xếp (stack), danh sách liên kết (linked list)
+  - [Codeforces Xóa cặp trùng](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/A)
   - [Hackerrank Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)
+  - [Codeforces Dãy ngoặc hợp lệ](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/C)
   - [Hackerrank Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)
+  - [Codeforces Kiểm tra tràn số](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/D)
