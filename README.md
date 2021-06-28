@@ -152,3 +152,7 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   (06.28) Thi thử HSG tỉnh lần 04
   - Thời gian làm bài: 8h - 11h00
   - [Link nộp bài](https://lqdoj.edu.vn/contest/otbc04)
+
+  (06.29) Ngăn xếp (stack), danh sách liên kết (linked list)
+  - [Hackerrank Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)
+  - [Hackerrank Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)
