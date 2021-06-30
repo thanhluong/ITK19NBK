@@ -153,7 +153,7 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - Thời gian làm bài: 8h - 11h00
   - [Link nộp bài](https://lqdoj.edu.vn/contest/otbc04)
 
-  (06.29) Ngăn xếp (stack), danh sách liên kết (linked list)
+  (06.29) Ngăn xếp (stack), deque, danh sách liên kết (linked list)
   - [Codeforces Xóa cặp trùng](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/A)
   - [Hackerrank Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)
   - [Codeforces Dãy ngoặc hợp lệ](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/C)
@@ -162,3 +162,7 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [LQDCoder Định và Ami (bản dễ)](http://lequydon.ntucoder.net/Problem/Details/6362)
   - [LQDCoder Định và Ami (bản khó)](http://lequydon.ntucoder.net/Problem/Details/6355)
   - [LQDOJ EOECWD](https://lqdoj.edu.vn/problem/eoecwd)
+
+  (07.01) Ngăn xếp (stack), deque, danh sách liên kết (linked list)
+  - [VNOJ QBRECT - Hình chữ nhật 0 1](https://oj.vnoi.info/problem/qbrect)
+  - [Codeforces Dễ thương](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/E)
