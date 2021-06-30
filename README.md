@@ -166,3 +166,5 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   (07.01) Ngăn xếp (stack), deque, danh sách liên kết (linked list)
   - [VNOJ QBRECT - Hình chữ nhật 0 1](https://oj.vnoi.info/problem/qbrect)
   - [Codeforces Dễ thương](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/E)
+  - [Codeforces Dễ ghét](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/F)
+  - [LQDOJ Giá trị nhỏ nhất](https://lqdoj.edu.vn/problem/minimum)
