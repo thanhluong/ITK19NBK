@@ -168,3 +168,4 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [Codeforces Dễ thương](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/E)
   - [Codeforces Dễ ghét](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/F)
   - [LQDOJ Giá trị nhỏ nhất](https://lqdoj.edu.vn/problem/minimum)
+  - [Codeforces Dễ dãi](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/G)
