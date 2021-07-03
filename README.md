@@ -171,3 +171,4 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   (07.03) Ngăn xếp (stack), deque, danh sách liên kết (linked list)
   - [LQDOJ Giá trị nhỏ nhất](https://lqdoj.edu.vn/problem/minimum)
   - [Codeforces Dễ dãi](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/G)
+  - [Codeforces Dễ sợ](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/H)
