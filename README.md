@@ -147,7 +147,7 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [Codeforces Nghèo nàn](https://codeforces.com/group/G0iFI97YZN/contest/333824/problem/B)
   - [VNOJ Cắt hình](https://oj.vnoi.info/problem/mincut)
 
-- **Tuần 05 (06.21 - 06.26): Cấu trúc dữ liệu (recursion)**
+- **Tuần 05 (06.21 - 06.26): Cấu trúc dữ liệu (data structures)**
 
   (06.28) Thi thử HSG tỉnh lần 04
   - Thời gian làm bài: 8h - 11h00
@@ -172,3 +172,10 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [LQDOJ Giá trị nhỏ nhất](https://lqdoj.edu.vn/problem/minimum)
   - [Codeforces Dễ dãi](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/G)
   - [Codeforces Dễ sợ](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/H)
+
+- **Tuần 06 (07.05 - 07.09): Cấu trúc dữ liệu (data structures)**
+
+  (07.05) Thi thử HSG tỉnh lần 05
+  - Thời gian làm bài: 8h - 11h00
+  - [Link nộp bài](https://lqdoj.edu.vn/contest/otbc05)
+   
