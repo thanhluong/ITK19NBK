@@ -178,4 +178,13 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   (07.05) Thi thử HSG tỉnh lần 05
   - Thời gian làm bài: 8h - 11h00
   - [Link nộp bài](https://lqdoj.edu.vn/contest/otbc05)
+
+  Bài tập ôn CTDL:
+  - [VNOJ Mass of Molecule](https://oj.vnoi.info/problem/mmass)
+  - [VNOJ Chiến trường Ô qua](https://oj.vnoi.info/problem/kagain)
+  - [VNOJ Bán dừa](https://oj.vnoi.info/problem/kplank)
+  - [VNOJ Đếm cặp](https://oj.vnoi.info/problem/c11pairs)
+  - [VNOJ Huyền thoại Lục Vân Tiên](https://oj.vnoi.info/problem/mink)
+
+  - 
    
