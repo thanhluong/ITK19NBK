@@ -185,6 +185,3 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [VNOJ Bán dừa](https://oj.vnoi.info/problem/kplank)
   - [VNOJ Đếm cặp](https://oj.vnoi.info/problem/c11pairs)
   - [VNOJ Huyền thoại Lục Vân Tiên](https://oj.vnoi.info/problem/mink)
-
-  - 
-   
