@@ -186,7 +186,13 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [VNOJ Đếm cặp](https://oj.vnoi.info/problem/c11pairs)
   - [VNOJ Huyền thoại Lục Vân Tiên](https://oj.vnoi.info/problem/mink)
 
-  (07.10) Fenwick tree
+- **Tuần 07 (07.12 - 07.17): Cấu trúc dữ liệu (data structures), quy hoạch động (DP)**
+
+  (07.12) Thi thử HSG tỉnh lần 06
+  - Thời gian làm bài: 8h - 11h00
+  - [Link nộp bài](https://lqdoj.edu.vn/contest/otbc06)
+
+  (07.14) Fenwick tree
   - [VNOJ Dãy nghịch thế](https://oj.vnoi.info/problem/nkinv)
   - [VNOJ Dãy con tăng dài nhất](https://oj.vnoi.info/problem/lis)
   - [Codeforces Netflix](https://codeforces.com/group/G0iFI97YZN/contest/335446/problem/A)
