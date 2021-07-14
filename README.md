@@ -200,5 +200,6 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   (07.15 - Sáng & chiều) Fenwick tree, quy hoạch động
   - [Codeforces Dãy con tăng](https://codeforces.com/group/G0iFI97YZN/contest/335446/problem/C)
   - [VNOJ Chữ M](https://oj.vnoi.info/problem/pvoi14_4)
+  - [LQDOJ KTHNUM](https://lqdoj.edu.vn/problem/otbc06p2)
   - [Codeforces Hình chữ nhật đáng ghét](https://codeforces.com/group/G0iFI97YZN/contest/335446/problem/B)
   
