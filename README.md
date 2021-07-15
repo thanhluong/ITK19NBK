@@ -202,5 +202,5 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [VNOJ Chữ M](https://oj.vnoi.info/problem/pvoi14_4)
   - [LQDOJ KTHNUM](https://lqdoj.edu.vn/problem/otbc06p2)
   - [Codeforces Hình chữ nhật đáng ghét](https://codeforces.com/group/G0iFI97YZN/contest/335446/problem/B)
-  - [IOI 2019 Shoes](https://github.com/thanhluong/ITK19NBK/blob/main/ioi2019shoes_vi.pdf) - Link nộp bài: [DMOJ](https://dmoj.ca/problem/ioi19p1)
+  - [IOI 2019 Shoes](https://github.com/thanhluong/ITK19NBK/blob/main/ioi2019shoes_vi.pdf) - Link nộp bài: [Baekjoon](https://www.acmicpc.net/problem/19914)
   
