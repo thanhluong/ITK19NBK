@@ -200,7 +200,10 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   (07.15 - Sáng & chiều) Fenwick tree, quy hoạch động
   - [Codeforces Dãy con tăng](https://codeforces.com/group/G0iFI97YZN/contest/335446/problem/C)
   - [VNOJ Chữ M](https://oj.vnoi.info/problem/pvoi14_4)
+  - [IOI 2019 Shoes](https://github.com/thanhluong/ITK19NBK/blob/main/ioi2019shoes_vi.pdf) - Link nộp bài: [Baekjoon](https://www.acmicpc.net/problem/19914)
+
+  (07.17) Fenwick tree, quy hoạch động
   - [LQDOJ KTHNUM](https://lqdoj.edu.vn/problem/otbc06p2)
   - [Codeforces Hình chữ nhật đáng ghét](https://codeforces.com/group/G0iFI97YZN/contest/335446/problem/B)
-  - [IOI 2019 Shoes](https://github.com/thanhluong/ITK19NBK/blob/main/ioi2019shoes_vi.pdf) - Link nộp bài: [Baekjoon](https://www.acmicpc.net/problem/19914)
+  - [VNOJ Xây đập giữ vàng](https://oj.vnoi.info/problem/bgmine)
   
