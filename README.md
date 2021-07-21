@@ -215,5 +215,6 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
 
   (07.22): Quy hoạch động bitmask
   - [VNOJ TRIP](https://oj.vnoi.info/problem/lem3)
+  - [Codeforces Xáo trộn hàng](https://codeforces.com/group/G0iFI97YZN/contest/337630)
   - [VNOJ CPU](https://oj.vnoi.info/problem/predhbb21_cpu)
   
