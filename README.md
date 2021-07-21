@@ -206,4 +206,14 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [LQDOJ KTHNUM](https://lqdoj.edu.vn/problem/otbc06p2)
   - [Codeforces Hình chữ nhật đáng ghét](https://codeforces.com/group/G0iFI97YZN/contest/335446/problem/B)
   - [VNOJ Xây đập giữ vàng](https://oj.vnoi.info/problem/bgmine)
+
+- **Tuần 08 (07.19 - 07.24): Quy hoạch động (DP)**
+
+  (07.19) Thi thử HSG tỉnh lần 07
+  - Thời gian làm bài: 8h - 11h00
+  - [Link nộp bài](https://lqdoj.edu.vn/contest/otbc07)
+
+  (07.22): Quy hoạch động bitmask
+  - [VNOJ TRIP](https://oj.vnoi.info/problem/lem3)
+  - [VNOJ CPU](https://oj.vnoi.info/problem/predhbb21_cpu)
   
