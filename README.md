@@ -218,3 +218,4 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [Codeforces Xáo trộn hàng](https://codeforces.com/group/G0iFI97YZN/contest/337630)
   - [VNOJ CPU](https://oj.vnoi.info/problem/predhbb21_cpu)
   
+- **Các bài tập trong giai đoạn train online có thể tìm ở [group Codeforces](https://codeforces.com/group/G0iFI97YZN/contests).**
