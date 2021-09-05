@@ -220,7 +220,7 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   
 - **Các bài tập trong giai đoạn train online có thể tìm ở [group Codeforces](https://codeforces.com/group/G0iFI97YZN/contests).**
 
-- **Tháng 9 - Hàm băm (hashing)**
+- **Tháng 9 - Băm (hashing)**
   - [VNOJ Xâu con](https://oj.vnoi.info/problem/substr)
   - [LQDOJ Xâu con lặp](https://lqdoj.edu.vn/problem/pun)
   - [VNOJ Tính toán số lớn](https://oj.vnoi.info/problem/vobignum)
