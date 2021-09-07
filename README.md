@@ -224,5 +224,7 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [VNOJ Xâu con](https://oj.vnoi.info/problem/substr)
   - [LQDOJ Xâu con lặp](https://lqdoj.edu.vn/problem/pun)
   - [LQDOJ Chu kỳ](https://lqdoj.edu.vn/problem/period)
-  - [VNOJ Tính toán số lớn](https://oj.vnoi.info/problem/vobignum)
   - [VNOJ Palindrome dài nhất](https://oj.vnoi.info/problem/paliny)
+  - [VNOJ Tính toán số lớn](https://oj.vnoi.info/problem/vobignum)
+  - [LQDOJ Lật xu](https://lqdoj.edu.vn/problem/coinflip)
+  
