@@ -228,5 +228,6 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [LQDOJ Biến đổi hai xâu](https://lqdoj.edu.vn/problem/twostr)
   - [VNOJ Kiểm tra siêu máy tính](https://oj.vnoi.info/problem/tnhtest)
   - [VNOJ Tính toán số lớn](https://oj.vnoi.info/problem/vobignum)
+  - [LQDOJ Số Catalan](https://lqdoj.edu.vn/problem/catalan)
   - [LQDOJ Lật xu](https://lqdoj.edu.vn/problem/coinflip)
   
