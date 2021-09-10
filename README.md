@@ -230,4 +230,9 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [VNOJ Tính toán số lớn](https://oj.vnoi.info/problem/vobignum)
   - [LQDOJ Số Catalan](https://lqdoj.edu.vn/problem/catalan)
   - [LQDOJ Lật xu](https://lqdoj.edu.vn/problem/coinflip)
+
+- **Tháng 9 - Một số dạng QHĐ (DP)**
+  - [LQDOJ Xâu thứ k](https://lqdoj.edu.vn/problem/kthstr)
+  - [VNOJ Chất lượng dịch vụ](https://oj.vnoi.info/problem/qos)
+  - [VNOJ String Reconstruction](https://oj.vnoi.info/problem/c11sstr)
   
