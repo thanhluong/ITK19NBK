@@ -238,6 +238,7 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [Baekjoon 피보나치 수 6](https://www.acmicpc.net/problem/11444) (Tính số Fibonacci thứ n mod 1e9 + 7)
   - [VNOJ Trò chơi lò cò](https://oj.vnoi.info/problem/dhloco)
   - [VNOJ Tribonacci](https://oj.vnoi.info/problem/vostribo)
+  - [VNOJ VOI 17 Bài 2 - Dãy Fibonacci](https://oj.vnoi.info/problem/voi17fibseq)
   - [VNOJ Những viên bi ma thuật](https://oj.vnoi.info/problem/vomarble)
 
   
