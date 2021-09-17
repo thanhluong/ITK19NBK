@@ -231,7 +231,7 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [LQDOJ Số Catalan](https://lqdoj.edu.vn/problem/catalan)
   - [LQDOJ Lật xu](https://lqdoj.edu.vn/problem/coinflip)
 
-- **Tháng 9 - Một số dạng QHĐ (DP) (2 buổi)**
+- **Tháng 9 - Một số dạng QHĐ (DP) (3 buổi)**
   - [LQDOJ Xâu thứ k](https://lqdoj.edu.vn/problem/kthstr)
   - [VNOJ Chất lượng dịch vụ](https://oj.vnoi.info/problem/qos)
   - [VNOJ String Reconstruction](https://oj.vnoi.info/problem/c11sstr)
@@ -240,5 +240,6 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [VNOJ Tribonacci](https://oj.vnoi.info/problem/vostribo)
   - [VNOJ VOI 17 Bài 2 - Dãy Fibonacci](https://oj.vnoi.info/problem/voi17fibseq)
   - [VNOJ Những viên bi ma thuật](https://oj.vnoi.info/problem/vomarble)
-
-  
+  - [VNOJ Tổ chức đối lập](https://oj.vnoi.info/problem/v8org)
+  - [VNOJ Another Tree Problem](https://oj.vnoi.info/problem/mtree)
+  - [LQDOJ Dịch vụ chăm sóc khách hàng](https://lqdoj.edu.vn/problem/service)
