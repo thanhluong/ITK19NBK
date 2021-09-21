@@ -243,3 +243,4 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [VNOJ Tổ chức đối lập](https://oj.vnoi.info/problem/v8org)
   - [VNOJ Another Tree Problem](https://oj.vnoi.info/problem/mtree)
   - [LQDOJ Dịch vụ chăm sóc khách hàng](https://lqdoj.edu.vn/problem/service)
+  - [LQDOJ STREE](https://lqdoj.edu.vn/problem/streecwd)
