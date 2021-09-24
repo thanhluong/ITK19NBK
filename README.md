@@ -245,3 +245,6 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [LQDOJ Dịch vụ chăm sóc khách hàng](https://lqdoj.edu.vn/problem/service)
   - [LQDOJ STREE](https://lqdoj.edu.vn/problem/streecwd)
   - [LQDOJ KTREE](https://lqdoj.edu.vn/problem/ktreecwd)
+
+- **Tháng 9 - LCA**
+  - [VNOJ LUBENICA](https://oj.vnoi.info/problem/lubenica)
