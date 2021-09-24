@@ -248,3 +248,4 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
 
 - **Tháng 9 - LCA**
   - [VNOJ LUBENICA](https://oj.vnoi.info/problem/lubenica)
+  - [VNOJ Nâng cấp mạng](https://oj.vnoi.info/problem/upgranet)
