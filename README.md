@@ -250,3 +250,4 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [VNOJ LUBENICA](https://oj.vnoi.info/problem/lubenica)
   - [VNOJ Nâng cấp mạng](https://oj.vnoi.info/problem/upgranet)
   - [VNOJ Kết nối chơi game](https://oj.vnoi.info/problem/vosplay)
+  - [LQDOJ Cây Nhi](https://lqdoj.edu.vn/problem/tkpc07tree)
