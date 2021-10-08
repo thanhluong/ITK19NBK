@@ -252,3 +252,10 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [VNOJ Kết nối chơi game](https://oj.vnoi.info/problem/vosplay)
   - [LQDOJ Cây Nhi](https://lqdoj.edu.vn/problem/tkpc07tree)
   - [LQDOJ Đường một chiều](https://lqdoj.edu.vn/problem/oneway)
+
+- **Tháng 10 - QHĐ chữ số**
+  - [LQDCoder PEARL - Số đặc biệt](http://lequydon.ntucoder.net/Problem/Details/4646)
+  - [LQDBD Số bất thường](https://lequydonbd.net/problem/sobatthuong)
+  - [VNOJ LUCKY13](https://oj.vnoi.info/problem/lucky13)
+  - [Codeforces Tích đặc biệt](https://codeforces.com/group/G0iFI97YZN/contest/348200/problem/B)
+  - [Codeforces Số kỳ diệu](https://codeforces.com/group/G0iFI97YZN/contest/348200/problem/A)
