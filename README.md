@@ -259,3 +259,7 @@ Tài liệu và đề cương để tập huấn cho đội dự tuyển ITK19 h
   - [VNOJ LUCKY13](https://oj.vnoi.info/problem/lucky13)
   - [Codeforces Tích đặc biệt](https://codeforces.com/group/G0iFI97YZN/contest/348200/problem/B)
   - [Codeforces Số kỳ diệu](https://codeforces.com/group/G0iFI97YZN/contest/348200/problem/A)
+
+- **Tháng 10 - QHĐ chữ số**
+  - [Codeforces dãy con chung may mắn](https://codeforces.com/group/G0iFI97YZN/contest/348875/problem/A)
+  - [LQDOJ Xâu LPD](https://lqdoj.edu.vn/problem/lpdstr)
